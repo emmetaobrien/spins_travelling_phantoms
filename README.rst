@@ -1,0 +1,1 @@
+.git/annex/objects/W3/kP/MD5E-s2092--7825adefbe9bbb52b4079e84156fc1fb.rst/MD5E-s2092--7825adefbe9bbb52b4079e84156fc1fb.rst
