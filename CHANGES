@@ -1,3 +1,7 @@
+1.1.0 2021-03-15
+  - updated README
+  - updated `dataset_description.json`
+  - added `participants.tsv` and `participants.json`
 
 1.0.0	2020-07-13
 
