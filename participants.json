@@ -31,5 +31,8 @@
   },
   "has_Y4CMP": {
     "Description": "Scanned on Siemens Prisma at CMP in year 4 of study"
+  },
+  "qc_comments": {
+    "Description": "Quality control comments"
   }
 }
