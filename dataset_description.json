@@ -22,6 +22,6 @@
     "ReferencesAndLinks": [
         "https://doi.org/10.1016/j.pscychresns.2018.06.004"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003011.v1.2.0",
+    "DatasetDOI": "10.18112/openneuro.ds003011.v1.2.1",
     "HowToAcknowledge": "Please cite: Hawco, Colin, Joseph D. Viviano, Sofia Chavez, Erin W. Dickie, Navona Calarco, Peter Kochunov, Miklos Argyelan, et al. 2018. \u201cA Longitudinal Human Phantom Reliability Study of Multi-Center T1-Weighted, DTI, and Resting State fMRI Data.\u201d Psychiatry Research. Neuroimaging, June. https://doi.org/10.1016/j.pscychresns.2018.06.004."
 }
