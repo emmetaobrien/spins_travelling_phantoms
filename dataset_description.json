@@ -13,7 +13,7 @@
         "Robert Buchanan",
         "Aristotle Voineskos"
     ],
-    "Acknowledgements": "Aside from the listed authors, we acknowledge the contributions of the remaining members of the Social Processes Initiative in Neurobiology of the Schizophrenias (SPINS) group: Will Carpenter, Jen Zaranski, Eric Arbach, Sharon August, Peter Kingsley, Xiangzhi Zhou, Sofia Chavez, Gary Remington, Judy Kwan, Christina Plagiannakos, Mikko Mason, Marzena Boczulak, Dielle Miranda, James M. Gold, Pamela DeRosse, George Foussias, and Michael Green.\n\nWe thank Joanna Collaton, Jessica D\u2019Arcey, Shelley Grady, Adriana Halaby, Jef West, Rebecca Ruiz, John Fitzgerald, Kathryn Rhindress, Kristin Minara, Tracy A Giordonello, Lara Prizgint, Simran Kang, Taylor Marzouk, Sana Ali, Bernie Kompancaril, Christopher Morell, Danielle Beech, Darren Phane,  George Nitzburg, Ivana De Lucia, and Natasha Bennett for performing behavioral and neuroimaging data collection; Nancy Lobaugh for managing and maintaining the consistency of the Centre for Addiction and Mental Health MRI equipment; and Steve Hawley, Navona Calarco, Michael Joseph, Jerrold Jeyachandra, Joseph Viviano, Jon Pipitone, Dawn Smith, John Cholewa, and Tom Wright for data management.",
+    "Acknowledgements": "Aside from the listed authors, we acknowledge the contributions of the remaining members of the Social Processes Initiative in Neurobiology of the Schizophrenias (SPINS) group: Will Carpenter, Jen Zaranski, Eric Arbach, Sharon August, Peter Kingsley, Xiangzhi Zhou, Sofia Chavez, Gary Remington, Judy Kwan, Christina Plagiannakos, Mikko Mason, Marzena Boczulak, Dielle Miranda, James M. Gold, Pamela DeRosse, George Foussias, and Michael Green. We thank Joanna Collaton, Jessica D'Arcey, Shelley Grady, Adriana Halaby, Jef West, Rebecca Ruiz, John Fitzgerald, Kathryn Rhindress, Kristin Minara, Tracy A Giordonello, Lara Prizgint, Simran Kang, Taylor Marzouk, Sana Ali, Bernie Kompancaril, Christopher Morell, Danielle Beech, Darren Phane,  George Nitzburg, Ivana De Lucia, and Natasha Bennett for performing behavioral and neuroimaging data collection; Nancy Lobaugh for managing and maintaining the consistency of the Centre for Addiction and Mental Health MRI equipment; and Steve Hawley, Navona Calarco, Michael Joseph, Jerrold Jeyachandra, Joseph Viviano, Jon Pipitone, Dawn Smith, John Cholewa, and Tom Wright for data management.",
     "Funding": [
         "National Institute of Mental Health Grant 1/3R01MH102324 to Aristotle Voineskos",
         "National Institute of Mental Health Grant 2/3R01MH102313 to Anil Malhotra",
@@ -22,6 +22,6 @@
     "ReferencesAndLinks": [
         "https://doi.org/10.1016/j.pscychresns.2018.06.004"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003011.v1.2.1",
-    "HowToAcknowledge": "Please cite: Hawco, Colin, Joseph D. Viviano, Sofia Chavez, Erin W. Dickie, Navona Calarco, Peter Kochunov, Miklos Argyelan, et al. 2018. \u201cA Longitudinal Human Phantom Reliability Study of Multi-Center T1-Weighted, DTI, and Resting State fMRI Data.\u201d Psychiatry Research. Neuroimaging, June. https://doi.org/10.1016/j.pscychresns.2018.06.004."
+    "DatasetDOI": "10.18112/openneuro.ds003011.v1.2.0",
+    "HowToAcknowledge": "Please cite: Hawco, Colin, Joseph D. Viviano, Sofia Chavez, Erin W. Dickie, Navona Calarco, Peter Kochunov, Miklos Argyelan, et al. 2018. A Longitudinal Human Phantom Reliability Study of Multi-Center T1-Weighted, DTI, and Resting State fMRI Data. Psychiatry Research. Neuroimaging, June. https://doi.org/10.1016/j.pscychresns.2018.06.004."
 }
