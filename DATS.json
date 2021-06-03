@@ -1,0 +1,439 @@
+
+  "title": "SPINS Travelling Human Phantoms",
+  "description": "Social Processes Initiative in Neurobiology of the Schizophrenia(s) Travelling Human Phantoms",
+  "identifier": {
+    "identifier": "10.18112/openneuro.ds003011.v1.2.2",
+    "identifierSource": "doi"
+  },
+  "dates": [
+    {
+      "date": "2014-10-01 00:00:00",
+      "type": {
+        "value": "first data collection"
+      }
+    },
+    {
+      "date": "2016-11-02 00:00:00",
+      "type": {
+        "value": "last data collection"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "fullName": "Colin Hawco",
+      "firstName": "Colin",
+      "middleInitial": "",
+      "lastName": "Hawco",
+      "affiliations": [
+        {
+          "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+        },
+        {
+          "name": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Erin Dickie",
+      "firstName": "Erin",
+      "middleInitial": "W",
+      "lastName": "Dickie",
+      "affiliations": [
+        {
+          "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+        },
+        {
+          "name": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Gabrielle Herman",
+      "firstName": "Gabrielle",
+      "middleInitial": "",
+      "lastName": "Herman",
+      "affiliations": [
+        {
+          "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+        }
+      ]
+    },
+    {
+      "fullName": "Jessica Turner"
+    },
+    {
+      "fullName": "Miklos Argyelan",
+      "firstName": "Miklos",
+      "middleInitial": "",
+      "lastName": "Argyelan",
+      "affiliations": [
+        {
+          "name": "Zucker Hillside Hospital, Glen Oaks, NY, United States"
+        }
+      ]
+    },
+    {
+      "fullName": "Philipp Homan"
+    },
+    {
+      "fullName": "Anil Malhotra",
+      "firstName": "Anil",
+      "middleInitial": "K",
+      "lastName": "Malhotra",
+      "affiliations": [
+        {
+          "name": "Zucker Hillside Hospital, Glen Oaks, NY, United States"
+        },
+        {
+          "name": "The Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY, United States"
+        }
+      ]
+    },
+    {
+      "fullName": "Robert Buchanan",
+      "firstName": "Robert",
+      "middleInitial": "W",
+      "lastName": "Buchanan",
+      "affiliations": [
+        {
+          "name": "Maryland Psychiatric Research Center, University of Maryland School of Medicine, Baltimore, MD, United States"
+        }
+      ]
+    },
+    {
+      "fullName": "Aristotle Voineskos",
+      "firstName": "Aristotle",
+      "middleInitial": "N",
+      "lastName": "Voineskos",
+      "affiliations": [
+        {
+          "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+        },
+        {
+          "name": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0106458"
+      }
+    }
+  ],
+  "version": "1.2",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "BIDS",
+        "NIfTI",
+        "TSV",
+        "JSON"
+      ],
+      "size": 4,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://github.com/tigrlab-bot/spins_travelling_phantoms/blob/master/README.md",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "A longitudinal human phantom reliability study of multi-center T1-weighted, DTI, and resting state fMRI data",
+      "publicationVenue": "Psychiatry Research: Neuroimaging",
+      "authors": [
+        {
+          "fullName": "Colin Hawco",
+          "firstName": "Colin",
+          "middleInitial": "",
+          "lastName": "Hawco",
+          "affiliations": [
+            {
+              "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Joseph Viviano",
+          "firstName": "Joseph",
+          "middleInitial": "D",
+          "lastName": "Viviano",
+          "affiliations": [
+            {
+              "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Sofia Chavez",
+          "firstName": "Sofia",
+          "middleInitial": "",
+          "lastName": "Chavez",
+          "affiliations": [
+            {
+              "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Erin Dickie",
+          "firstName": "Erin",
+          "middleInitial": "W",
+          "lastName": "Dickie",
+          "affiliations": [
+            {
+              "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Navona Calarco",
+          "firstName": "Navona",
+          "middleInitial": "",
+          "lastName": "Calarco",
+          "affiliations": [
+            {
+              "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Peter Kochunov",
+          "firstName": "Peter",
+          "middleInitial": "",
+          "lastName": "Kochunov",
+          "affiliations": [
+            {
+              "name": "Maryland Psychiatric Research Center, University of Maryland School of Medicine, Baltimore, MD, United States"
+            }
+          ]
+        },
+        {
+          "fullName": "Miklos Argyelan",
+          "firstName": "Miklos",
+          "middleInitial": "",
+          "lastName": "Argyelan",
+          "affiliations": [
+            {
+              "name": "Zucker Hillside Hospital, Glen Oaks, NY, United States"
+            }
+          ]
+        },
+        {
+          "fullName": "Jessica Turner",
+          "firstName": "Jessica",
+          "middleInitial": "A",
+          "lastName": "Turner",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, Georgia State University, Atlanta, GA, United States"
+            }
+          ]
+        },
+        {
+          "fullName": "Anil Malhotra",
+          "firstName": "Anil",
+          "middleInitial": "K",
+          "lastName": "Malhotra",
+          "affiliations": [
+            {
+              "name": "Zucker Hillside Hospital, Glen Oaks, NY, United States"
+            },
+            {
+              "name": "The Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY, United States"
+            }
+          ]
+        },
+        {
+          "fullName": "Robert Buchanan",
+          "firstName": "Robert",
+          "middleInitial": "W",
+          "lastName": "Buchanan",
+          "affiliations": [
+            {
+              "name": "Maryland Psychiatric Research Center, University of Maryland School of Medicine, Baltimore, MD, United States"
+            }
+          ]
+        },
+        {
+          "fullName": "Aristotle Voineskos",
+          "firstName": "Aristotle",
+          "middleInitial": "N",
+          "lastName": "Voineskos",
+          "affiliations": [
+            {
+              "name": "Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "description": "",
+          "date": "2018-12-30 00:00:00",
+          "type": {
+            "value": "date of publication"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "10.1016/j.pscychresns.2018.06.004",
+        "identifierSource": "doi"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens"
+    },
+    {
+      "name": "adult"
+    },
+    {
+      "name": "brain"
+    },
+    {
+      "name": "healthy"
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Toronto, ON, Canada",
+      "description": ""
+    },
+    {
+      "name": "Glen Oaks, NY, United States",
+      "description": ""
+    },
+    {
+      "name": "Baltimore, MD, United States",
+      "description": ""
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "National Institute of Mental Health Grant 1/3R01MH102324 to Aristotle Voineskos",
+          "abbreviation": ""
+        },
+        {
+          "name": "National Institute of Mental Health Grant 2/3R01MH102313 to Anil Malhotra",
+          "abbreviation": ""
+        },
+        {
+          "name": "National Institute of Mental Health Grant 3/3R01MH102318 to Robert Buchanan",
+          "abbreviation": ""
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "spins"
+    },
+    {
+      "value": "multi-site"
+    },
+    {
+      "value": "multi-scanner"
+    },
+    {
+      "value": "human phantoms"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "282"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "external"
+        }
+      ]
+    },
+    {
+      "category": "origin_consortium",
+      "values": [
+        {
+          "value": "SPINS Group"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Colin Hawco, colin.hawco@camh.ca"
+        }
+      ]
+    }
+  ]
+}
