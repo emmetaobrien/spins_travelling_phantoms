@@ -1,10 +1,12 @@
-Introduction
-------------
+# Social Processes Initiative in Neurobiology of the Schizophrenia(s) Travelling Human Phantoms
+
+[![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.3647610.svg)](https://doi.org/10.18112/openneuro.ds003011.v1.2.0)
+
+## Introduction
 
 Human neuroimaging has led to an overwhelming amount of research into brain function in healthy and clinical populations. However, a better appreciation of the limitations of small sample studies has led to an increased number of multi-site, multi-scanner protocols to understand human brain function. As part of a multi-site project examining social cognition in schizophrenia, a group of "travelling human phantoms" had T1-weighted, diffusion-weighted, and resting-state functional MRI scans obtained. This data can be used to evaluate differences across scanners, consistency of pipeline outputs, or test multi-scanner harmonization approaches.
 
-Methods
--------
+## Methods
 
 MRI scans were collected annually across three participating sites, starting in 2014 and ending in 2018. Scan protocols were carefully harmonized across sites prior to the study.
 
