@@ -311,6 +311,10 @@
   ],
   "isAbout": [
     {
+		"identifier": {
+				"identifier": "9606",
+				"identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
+			},
       "name": "Homo sapiens"
     },
     {
