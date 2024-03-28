@@ -119,7 +119,8 @@
   "types": [
     {
       "information": {
-        "value": "http://uri.interlex.org/base/ilx_0106458"
+        "value": "MRI",
+		"valueIRI": "http://uri.interlex.org/base/ilx_0106458"
       }
     }
   ],
